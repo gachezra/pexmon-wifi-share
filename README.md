@@ -31,7 +31,7 @@ The project is divided into two main components:
    ```
 2. Navigate to the project directory:
    ```
-   cd pexmo-wifi-share
+   cd pexmon-wifi-share
    ```
 3. Install the dependencies:
    ```
